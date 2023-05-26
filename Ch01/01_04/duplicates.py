@@ -9,4 +9,5 @@ df
 df.duplicated()
 
 # %%
-df.duplicated(['date', 'name'])
+df.duplicated(['date', 'name', 'amount'])
+# %%
